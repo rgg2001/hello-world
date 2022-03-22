@@ -6,4 +6,4 @@ Second?
 ## Semi-grande
 ### Pequeño
 
-En este caso, aplicamos la **negrita** y la *italica*
+En este caso, aplicamos la **negrita** y la *italica*. Igualmente, ~tachamos~
